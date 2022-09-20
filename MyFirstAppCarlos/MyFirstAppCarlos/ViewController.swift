@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         let variable = "hola"
         print(variable)
+        let variable2 = "acabo de crear la rama develop"
+        print(variable2)
     }
 
     
